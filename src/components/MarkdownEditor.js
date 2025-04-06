@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
+import "../styles/App.css"
 
 const MarkdownEditor = () => {
     const [input, setInput] = useState("")

@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
+import MarkdownEditor from "./components/MarkdownEditor";
 
-ReactDOM.render(<App />, document.getElementById("root"))
+ReactDOM.render(<MarkdownEditor />, document.getElementById("root"))
 
