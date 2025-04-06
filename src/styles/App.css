@@ -1,4 +1,4 @@
-.markdown{
+.app{
     display: flex;
     width: 100%;
     height: 95vh
@@ -9,6 +9,7 @@
     height: 100%;
     padding: 10px;
     background-color: #EFF1F5;
+    border: none;
 }
 
 .preview{
@@ -16,4 +17,7 @@
     height: 100%;
     padding: 10px;
     background-color: #E8EAF1;
+    border: none;
+    font-weight: bolder;
+    font-size: 20px;
 }
